@@ -1,0 +1,17 @@
+.column1 {
+  background-color: blue;
+  width: 400px;
+}
+.column2 {
+  background-color: red;
+  width: 400px;
+}.column3 {
+  background-color: yellow;
+  width: 400px;
+}
+.column1 h3 {
+  font-weight: bold;
+}
+.column2 p {
+  font-family: sans-serif;
+}
